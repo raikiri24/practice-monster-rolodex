@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/practice-monster-rolodex/static/css/main.3904ec4e.css",
+    "main.js": "/practice-monster-rolodex/static/js/main.10f31233.js",
+    "static/js/787.4332a091.chunk.js": "/practice-monster-rolodex/static/js/787.4332a091.chunk.js",
+    "static/media/logo.svg": "/practice-monster-rolodex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/practice-monster-rolodex/index.html",
+    "main.3904ec4e.css.map": "/practice-monster-rolodex/static/css/main.3904ec4e.css.map",
+    "main.10f31233.js.map": "/practice-monster-rolodex/static/js/main.10f31233.js.map",
+    "787.4332a091.chunk.js.map": "/practice-monster-rolodex/static/js/787.4332a091.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3904ec4e.css",
+    "static/js/main.10f31233.js"
+  ]
+}
